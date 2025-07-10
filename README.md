@@ -1,2 +1,2 @@
-# Backend_Course
-Tasks for the Backend Course
+# Database_Backend_Course
+Database tasks for the Backend Course
